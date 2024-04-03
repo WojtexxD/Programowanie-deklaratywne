@@ -4,6 +4,7 @@
 % uzgadnianie list
 % jakie wyrazenia to sa zmienne zlozone stale termy czy jest nie poprawnie zlozone (predykat z duzej zawsze, stala duza litera)
 % zdefiniowac 2 predykaty list za pomoca definicjii rekurencji lub merge list
+% definicja rekurencyjna przykladowy predykat za pomoca maplist
 % ===============================================================================
 % konkat(L1,L2,L3)
 % spełniony, gdy L3 jest połączeniem list L1 i L2
